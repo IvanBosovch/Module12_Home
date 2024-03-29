@@ -1,0 +1,2 @@
+new = 'flkfjgljfglkd'
+print(new)
